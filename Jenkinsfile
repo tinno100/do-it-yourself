@@ -133,5 +133,7 @@ def pullImages() {
 // cat docker-compose.yaml
 
 
+// this is a practice jenkinsfile
+
 
 
